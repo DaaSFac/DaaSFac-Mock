@@ -1,0 +1,97 @@
+#`DaaSFac-Mock` — MOCK SAMPLE DATA
+DISPLAY-ONLY LICENCE
+
+Copyright (c) 2026 DaaSFac. All rights reserved.
+
+This repository holds MOCK SAMPLE DATA. It exists for one purpose: to populate
+the public product pages on https://daasfactory.live so a visitor can see the
+shape of a DaaSFac data pack before deciding to obtain the real one. It is a
+display fixture, not a free tier and not a preview edition.
+
+No open-source licence is granted. This file is the only licence in effect.
+
+
+1. GRANT
+
+   You are permitted to:
+
+   (a) load and view this data as served within the DaaSFac website, in the
+       ordinary course of browsing that site; and
+
+   (b) read this repository on GitHub, and fork it within GitHub to the extent
+       the GitHub Terms of Service require for public repositories.
+
+   That is the entire grant. Clause (b) is a consequence of hosting the
+   repository publicly and confers no right of USE beyond viewing and forking
+   in place.
+
+
+2. RESTRICTIONS
+
+   Except as stated in clause 1, and without prior written permission from
+   DaaSFac, you may NOT:
+
+   (a) copy, download, extract, scrape, mirror or otherwise reproduce this
+       data outside the contexts described in clause 1;
+
+   (b) redistribute, publish, sublicense, sell, rent, lease or otherwise make
+       this data available to any third party, with or without charge;
+
+   (c) incorporate this data, in whole or in part, into any product, service,
+       application, website, dataset, library or other work;
+
+   (d) use this data to train, fine-tune, evaluate or benchmark any machine
+       learning model;
+
+   (e) use this data for any commercial purpose whatsoever; or
+
+   (f) remove, alter or obscure any copyright, licence or attribution notice
+       contained in the data files or in this repository.
+
+
+3. THE DATA BEING PUBLICLY REACHABLE IS NOT A LICENCE
+
+   This repository is public, and its URLs appear in the source of the DaaSFac
+   website. Anyone can therefore find this data with a browser's developer
+   tools. Being able to reach a file is not permission to use it. Nothing in
+   this repository's public accessibility grants any right beyond clause 1, and
+   no such right may be inferred from the absence of a technical barrier.
+
+
+4. THE REAL DATA
+
+   Full DaaSFac data packs are licensed and available separately:
+
+     - Community OS packs — AGPL-3.0-or-later or a commercial licence, unlocked
+       with a key claimed from your DaaSFac account.
+     - Open Source packs  — CC BY 4.0, public repositories, no key required.
+
+   If you want to use DaaSFac data in your own work, use one of those. They
+   exist precisely so that you do not need this repository.
+
+   See https://daasfactory.live.
+
+
+5. ENFORCEMENT
+
+   Use outside clause 1 is unlicensed and infringes DaaSFac's copyright.
+   Copyright infringement exposes the infringer to civil liability, which may
+   include injunctive relief, damages or an account of profits, and legal
+   costs. In some jurisdictions, wilful infringement carried out on a
+   commercial scale also carries criminal penalties. DaaSFac reserves all
+   rights and remedies available to it under applicable law.
+
+
+6. NO WARRANTY
+
+   THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IT IS SAMPLE DATA AND
+   MAY BE INACCURATE, INCOMPLETE, TRUNCATED OR SYNTHETIC. IN NO EVENT SHALL
+   DAASFAC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+   OUT OF, OR IN CONNECTION WITH THE DATA OR ITS USE.
+
+
+7. CONTACT
+
+   Permission requests and licensing enquiries: https://daasfactory.live
